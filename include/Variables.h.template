@@ -1,2 +1,5 @@
 #define WIFI_SSID "yourWifiSSID"
 #define WIFI_PASS "yourWifiPassword"
+#define SUBSCRIBE_TOPIC "questrade/"
+#define MQTT_USER "mqttusername"
+#define MQTT_PASS "mqttpassword"
